@@ -20,3 +20,6 @@ en la deserción escolar en Bolivia usando la Encuesta de Hogares 2025.
 - Tasa de deserción 6-18 años: X% (ver notebook)
 - Departamentos más afectados: Santa Cruz, Pando, Beni...
 - Variables más influyentes: edad, zona, sexo...
+
+Fuente: Instituto Nacional de Estadística, Encuesta de Hogares 2025 - http://anda.ine.gob.bo/index.php/catalog/256.
+Dato fuente solicitado fecha 21/09/2026
